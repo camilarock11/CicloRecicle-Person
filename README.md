@@ -1,0 +1,2 @@
+# CicloRecicle-Person
+Uma plataforma que consiste em uma forma de orientar os consumidores a respeito de como devem realizar o descarte de seus materiais lendo os QR Code presentes nas embalagens e, como incentivo, oferecer a eles cupons de desconto. O projeto busca criar um ambiente mais sustentável, fazendo os mercados terem intenção de oferecer os produtos que possuem o QR Code já que os cupons de desconto poderão gerar a fidelização da clientela. Além disso, a ideia de ser mais amigável ecologicamente irá também atrair as empresas a aderir ao nosso projeto. 
